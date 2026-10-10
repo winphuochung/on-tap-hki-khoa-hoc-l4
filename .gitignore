@@ -1,0 +1,13 @@
+# System & Antigravity internal files
+.shared/
+agents/
+rules/
+scripts/
+skills/
+tasks/
+workflows/
+ARCHITECTURE.md
+mcp_config.json
+
+# Screenshots
+*.png
